@@ -1,4 +1,4 @@
-# Excel-project-beer-sales
+# Excel-project-forecast-regression-beer-sales
 The excel file "Assignment2_Data.xlsx" includes beer retail sales data (Qc) over 52 weeks from January 1, 2015, to December 24, 2015. The variable Qc represents the total unit sales of the beer (six-packs, in cans, 72oz) across a large number of U.S. retailers. We will forecast future sales and asnwer business questions to help making business decisions.
 
 1.  Report the sales data's mean, median, mode, range, standard deviation, and sample variance.
